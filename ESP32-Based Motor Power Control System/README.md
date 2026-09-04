@@ -1,9 +1,25 @@
-            
-How to use：
+# ESP32-Based Motor Power Control System
 
-At editor, open the document via: Top menu - File - Open - EasyEDA... , and select the json file, then open it at the editor, you can save it into a project.
+PCB design project developed in EasyEDA.
 
+## Project files
 
-如何使用：
+- `1-Schematic_Pro_CTRL_2_Buck.json` — EasyEDA schematic
+- `1-PCB_PCB_Pro_CTRL_2_Buck.json` — EasyEDA PCB layout
 
-打开编辑器，通过：顶部菜单 - 文件 - 打开 - 立创EDA... ，选择 json 文件打开在编辑器，你可以保存文档进工程里面。
+## How to open in EasyEDA
+
+1. Open EasyEDA.
+2. Go to **File → Open → EasyEDA**.
+3. Select the `.json` file.
+4. Save it into an EasyEDA project if you want to continue editing it.
+
+## Tools
+
+- EasyEDA
+- ESP32
+- PCB Design
+
+## Status
+
+Project in development.
